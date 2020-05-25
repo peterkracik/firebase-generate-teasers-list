@@ -1,6 +1,6 @@
 # firebase-generate-teasers-list
 
-[https://medium.com/@peterkracik/my-approach-to-structure-firestore-without-exploding-the-budget-b5633e4f6dd7]
+[blog post](https://medium.com/@peterkracik/my-approach-to-structure-firestore-without-exploding-the-budget-b5633e4f6dd7)
 
 Example firebase function to generate and update teasers list from documents,
 it will generate array of all __Post__ documents inside the document __teasers/posts__
